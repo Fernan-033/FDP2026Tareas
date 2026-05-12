@@ -3,7 +3,6 @@
 #include <iostream>
 using namespace std;
 int main(){
-    int condicion;
     int opcion;
     int salir=4;
 
